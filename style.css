@@ -1,0 +1,43 @@
+body
+{
+    background-color: rgb(200, 21, 216);
+    font-family: 'Merienda', cursive;
+    font-size: 30px;
+}
+.header_div
+{
+    background-color: antiquewhite;
+    color: rgb(38, 0, 73);
+
+
+}
+.header_div p
+{
+    font-family: 'Merienda', cursive;
+    color: rgb(64, 0, 148);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+    
+}
+.main_div button
+{
+    font-family: 'Merienda', cursive;
+    margin-top:30px ;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+
+}
+.copy_right_footer
+{
+   position: fixed;
+   color: rgb(0, 77, 60);
+   width: 100%;
+   bottom: 0;
+   font-size: 30px;
+   background-color: antiquewhite;
+   line-height: 3;
+   text-align: center;
+   text-shadow: 5px 5px 5px gray;
+}
